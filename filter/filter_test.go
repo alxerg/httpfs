@@ -9,8 +9,8 @@ import (
 	pathpkg "path"
 	"strings"
 
-	"github.com/shurcooL/httpfs/filter"
-	"github.com/shurcooL/httpfs/vfsutil"
+	"github.com/alxerg/httpfs/filter"
+	"github.com/alxerg/httpfs/vfsutil"
 	"golang.org/x/tools/godoc/vfs/httpfs"
 	"golang.org/x/tools/godoc/vfs/mapfs"
 )

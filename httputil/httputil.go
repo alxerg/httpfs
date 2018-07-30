@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/shurcooL/httpgzip"
+	"github.com/alxerg/httpgzip"
 )
 
 // FileHandler is an http.Handler that serves the root of File,

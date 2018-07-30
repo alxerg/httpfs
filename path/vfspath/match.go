@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/shurcooL/httpfs/vfsutil"
+	"github.com/alxerg/httpfs/vfsutil"
 )
 
 const separator = "/"

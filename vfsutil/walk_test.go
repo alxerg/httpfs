@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/shurcooL/httpfs/vfsutil"
+	"github.com/alxerg/httpfs/vfsutil"
 	"golang.org/x/tools/godoc/vfs/httpfs"
 	"golang.org/x/tools/godoc/vfs/mapfs"
 )
